@@ -65,7 +65,7 @@ write.table(FinalData, "FinalData.txt", row.name=FALSE)
 // Check variables
 
 str(FinalData)
-![Output](https://i.pinimg.com/originals/fe/51/14/fe51144bb247a6f82fc11d099d0f2058.jpg)
+!(Output)[https://i.pinimg.com/originals/fe/51/14/fe51144bb247a6f82fc11d099d0f2058.jpg]
 
 FinalData
-![Output](https://i.pinimg.com/originals/ea/14/c2/ea14c227a69a58f161c947fb1751ed5f.jpg)
+!(Output)[https://i.pinimg.com/originals/ea/14/c2/ea14c227a69a58f161c947fb1751ed5f.jpg]
